@@ -1,0 +1,19 @@
+<snippet>
+    <content><![CDATA[
+	namespace Twist\Controllers;
+
+	use Twist\Core\Classes\BaseController;
+	use Twist\Core\Classes\Error;
+
+	class ${1:MyController} extends BaseController {
+
+		public function _default() {
+			return "Hello world";
+		}
+
+	}
+]]></content>
+    <tabTrigger>twistphp-Controller</tabTrigger>
+    <scope>source.php</scope>
+    <description>TwistPHP</description>
+</snippet>
