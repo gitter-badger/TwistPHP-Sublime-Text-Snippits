@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[{$1?$2:$3}]]></content>
+    <tabTrigger>twistphp-IfElse</tabTrigger>
+    <scope>text.html</scope>
+    <description>TwistPHP</description>
+</snippet>

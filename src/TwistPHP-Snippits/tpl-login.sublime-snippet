@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[{user:login_form}]]></content>
+    <tabTrigger>twistphp-LoginForm</tabTrigger>
+    <scope>text.html</scope>
+    <description>TwistPHP</description>
+</snippet>

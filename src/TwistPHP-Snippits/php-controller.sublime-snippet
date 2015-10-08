@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-	namespace Twist\Controllers;
+	namespace App\Controllers;
 
 	use Twist\Core\Classes\BaseController;
 	use Twist\Core\Classes\Error;
